@@ -1,7 +1,7 @@
 ##Работа с Postgree
 
+[Большое спасибо автору](http://www.alexedwards.net/blog/practical-persistence-sql "Огромное спасибо автору")
 [http://4gophers.ru/article/go-i-sql-bazy-dannyh#.V-fdHvmLSUk](http://4gophers.ru/article/go-i-sql-bazy-dannyh#.V-fdHvmLSUk "Postgre")
-
 [http://go-database-sql.org/prepared.html](http://go-database-sql.org/prepared.html "Postgree + SQL")
 
 
